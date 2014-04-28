@@ -1,2 +1,51 @@
-/*create your custom styling here*/
+#header{
+	height:200px;
+	width:940px;
+	top:0px;
+	left:0px;
+	margin:10px;
+	background-color:#228b22;
+	font:Times
+}
 
+.sidebar{
+	height:600px;
+	width:200px;
+	margin:10px;
+	background-color:#1e90ff;
+	font:Times;
+	float:left;
+}
+
+.small-box{
+	height:150px;
+	width:150px;
+	background-color:#ffd700;
+	float:center;
+	margin:20px;
+	border-radius:10px
+}
+
+.long-box{
+	height:500px;
+	width:150px;
+	background-color:#ffd700;
+	float:center;
+	margin:20px;
+	border-radius:10px;
+}
+#main-story{
+	height:600px;
+	width:500px;
+	background-color:#d2691e;
+	float:left;
+	margin:10px;
+}
+
+#footer{
+	height:200px;
+	width:940px;
+	background-color:#fa8072;
+	margin:10px;
+	float:left;
+}
